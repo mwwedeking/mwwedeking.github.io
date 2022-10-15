@@ -1,0 +1,26 @@
+body 
+{
+    background:lightblue;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.assignment
+{
+    background: white;
+    display:flex;
+    padding: 10px;
+    margin: 10px;
+    font-size: small;
+}
+
+.assignment img
+{
+    width: 200px;
+    padding: 10px;
+}
+
+h1 
+{
+    color: royalblue;
+    text-align: center;
+}
