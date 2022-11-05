@@ -1,0 +1,44 @@
+body 
+{
+    background: #D6D9C5;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.assignment
+{
+    background: #9FA685;
+    display:flex;
+    padding: 10px;
+    margin: 10px;
+    font-size: small;
+    border-radius: 25px;
+}
+
+.assignment img
+{
+    width: 200px;
+    margin: 10px;
+    border: 2px solid #647356;
+}
+
+.assignment img:hover 
+{
+    border: 2px solid #647356;
+}
+
+h1 
+{
+    color: #3B403C;
+    text-align: center;
+}
+
+a 
+{
+    text-decoration:none;
+    color: #434F59;
+}
+
+a:hover
+{
+    color: whitesmoke;
+}
