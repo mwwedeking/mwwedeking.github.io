@@ -1,0 +1,57 @@
+body 
+{
+    background: #d6d9c5;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.assignments 
+{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.assignment
+{
+    width:30%;
+    background: #9FA685;
+    padding: 10px;
+    margin: 10px;
+    font-size: small;
+    border-radius: 25px;
+}
+
+.assignment img
+{
+    width: 200px;
+    margin: 10px;
+    border: 2px solid #647356;
+    display:block;
+    margin:auto;
+}
+
+.assignment img:hover 
+{
+    border: 2px solid #647356;
+}
+
+h1 
+{
+    color: #3B403C;
+    text-align: center;
+}
+
+h2
+{
+    text-align:center;
+}
+
+a 
+{
+    text-decoration:none;
+    color: #434F59;
+}
+
+a:hover
+{
+    color: whitesmoke;
+}
